@@ -31,7 +31,7 @@
 
 ```javascript
 function solution(array, commands) {
-    var answer = [];
+    let answer = [];
 
     for (let i = 0; i < commands.length; i++) {
         let copyArray = array;

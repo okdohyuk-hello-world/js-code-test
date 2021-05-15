@@ -1,5 +1,5 @@
-let participant = ["marina", "josipa", "nikola", "vinko", "filipa"];
-let completion = ["josipa", "filipa", "marina", "nikola"];
+const participant = ["marina", "josipa", "nikola", "vinko", "filipa"];
+const completion = ["josipa", "filipa", "marina", "nikola"];
 
 function solution(participant, completion) {
     let answer = "";

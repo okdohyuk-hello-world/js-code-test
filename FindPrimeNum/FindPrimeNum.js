@@ -1,7 +1,7 @@
-let numbers = "17";
+const numbers = "17";
 
 function solution(numbers) {
-    var answer = 0;
+    let answer = 0;
     let numberchar = [];
 
     for (let i = 0; i < numbers.length; i++) {

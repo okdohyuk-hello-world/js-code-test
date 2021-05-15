@@ -1,4 +1,4 @@
-let answers = [2, 3, 4, 2, 1];
+const answers = [2, 3, 4, 2, 1];
 
 function solution(answers) {
     let answer = [];
