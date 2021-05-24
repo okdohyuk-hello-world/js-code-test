@@ -1,4 +1,4 @@
-# Distinct
+# OddOccurrencesInArray
 
 출처: [https://app.codility.com/programmers/lessons](https://app.codility.com/programmers/lessons)
 
